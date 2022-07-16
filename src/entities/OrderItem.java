@@ -2,8 +2,8 @@ package entities;
 
 public class OrderItem {
 
-  public int quantity;
-  public Double price;
+  private int quantity;
+  private Double price;
 
   private Product product;
 
